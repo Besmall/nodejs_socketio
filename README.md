@@ -6,5 +6,4 @@
 npm install
 ```
 ##### 用到的技术支持是socketio
-#### socket.io
 [socket.io](https://socket.io/)
